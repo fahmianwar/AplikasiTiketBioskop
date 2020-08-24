@@ -1,0 +1,75 @@
+D:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\bin\Debug\Aplikasi Tiket Bioskop.exe
+D:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\bin\Debug\Aplikasi Tiket Bioskop.pdb
+D:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\bin\Debug\Aplikasi Tiket Bioskop.xml
+D:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi_Tiket_Bioskop.Resources.resources
+D:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi_Tiket_Bioskop.Pembukaan.resources
+D:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi Tiket Bioskop.vbproj.GenerateResource.Cache
+D:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi Tiket Bioskop.exe
+D:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi Tiket Bioskop.xml
+D:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi Tiket Bioskop.pdb
+D:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi_Tiket_Bioskop.Login.resources
+D:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\bin\Debug\Aplikasi Tiket Bioskop.exe.config
+D:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi_Tiket_Bioskop.Pemesanan.resources
+D:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi_Tiket_Bioskop.Tiket.resources
+D:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi_Tiket_Bioskop.Admin.resources
+D:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi_Tiket_Bioskop.Tambah_Film.resources
+D:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi_Tiket_Bioskop.Ubah_Film.resources
+D:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\bin\Debug\Bioskop.accdb
+D:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi_Tiket_Bioskop.Hapus_Film.resources
+D:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi_Tiket_Bioskop.Ubah_Waktu.resources
+D:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi_Tiket_Bioskop.Hapus_Waktu.resources
+D:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi_Tiket_Bioskop.Tambah_Waktu.resources
+D:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi_Tiket_Bioskop.Ubah_Harga.resources
+D:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi_Tiket_Bioskop.Hapus_Pengguna.resources
+D:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi_Tiket_Bioskop.Tambah_Pengguna.resources
+D:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi_Tiket_Bioskop.Ubah_Pengguna.resources
+H:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\bin\Debug\Aplikasi Tiket Bioskop.exe.config
+H:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi Tiket Bioskop.exe
+H:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi Tiket Bioskop.xml
+H:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi Tiket Bioskop.pdb
+H:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\bin\Debug\Bioskop.accdb
+H:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\bin\Debug\Aplikasi Tiket Bioskop.exe
+H:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\bin\Debug\Aplikasi Tiket Bioskop.pdb
+H:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\bin\Debug\Aplikasi Tiket Bioskop.xml
+H:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi_Tiket_Bioskop.Admin.resources
+H:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi_Tiket_Bioskop.Hapus_Film.resources
+H:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi_Tiket_Bioskop.Ubah_Film.resources
+H:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi_Tiket_Bioskop.Tambah_Film.resources
+H:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi_Tiket_Bioskop.Ubah_Harga.resources
+H:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi_Tiket_Bioskop.Tambah_Pengguna.resources
+H:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi_Tiket_Bioskop.Hapus_Pengguna.resources
+H:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi_Tiket_Bioskop.Ubah_Pengguna.resources
+H:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi_Tiket_Bioskop.Hapus_Waktu.resources
+H:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi_Tiket_Bioskop.Tambah_Waktu.resources
+H:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi_Tiket_Bioskop.Ubah_Waktu.resources
+H:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi_Tiket_Bioskop.Tiket.resources
+H:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi_Tiket_Bioskop.Pemesanan.resources
+H:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi_Tiket_Bioskop.Login.resources
+H:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi_Tiket_Bioskop.Resources.resources
+H:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi_Tiket_Bioskop.Pembukaan.resources
+H:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi Tiket Bioskop.vbproj.GenerateResource.Cache
+G:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\bin\Debug\Aplikasi Tiket Bioskop.exe.config
+G:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi Tiket Bioskop.exe
+G:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi Tiket Bioskop.xml
+G:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi Tiket Bioskop.pdb
+G:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\bin\Debug\Bioskop.accdb
+G:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\bin\Debug\Aplikasi Tiket Bioskop.exe
+G:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\bin\Debug\Aplikasi Tiket Bioskop.pdb
+G:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\bin\Debug\Aplikasi Tiket Bioskop.xml
+G:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi_Tiket_Bioskop.Admin.resources
+G:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi_Tiket_Bioskop.Hapus_Film.resources
+G:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi_Tiket_Bioskop.Ubah_Film.resources
+G:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi_Tiket_Bioskop.Tambah_Film.resources
+G:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi_Tiket_Bioskop.Ubah_Harga.resources
+G:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi_Tiket_Bioskop.Tambah_Pengguna.resources
+G:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi_Tiket_Bioskop.Hapus_Pengguna.resources
+G:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi_Tiket_Bioskop.Ubah_Pengguna.resources
+G:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi_Tiket_Bioskop.Hapus_Waktu.resources
+G:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi_Tiket_Bioskop.Tambah_Waktu.resources
+G:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi_Tiket_Bioskop.Ubah_Waktu.resources
+G:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi_Tiket_Bioskop.Tiket.resources
+G:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi_Tiket_Bioskop.Pemesanan.resources
+G:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi_Tiket_Bioskop.Login.resources
+G:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi_Tiket_Bioskop.Resources.resources
+G:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi_Tiket_Bioskop.Pembukaan.resources
+G:\Aplikasi\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Debug\Aplikasi Tiket Bioskop.vbproj.GenerateResource.Cache

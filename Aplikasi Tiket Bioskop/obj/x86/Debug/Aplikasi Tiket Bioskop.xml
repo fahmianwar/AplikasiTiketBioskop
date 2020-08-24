@@ -1,0 +1,208 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AplikasiTiketBioskop
+</name>
+</assembly>
+<members>
+<member name="P:Aplikasi_Tiket_Bioskop.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Aplikasi_Tiket_Bioskop.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Aplikasi_Tiket_Bioskop.My.Resources.Resources.logo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Aplikasi_Tiket_Bioskop.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Aplikasi_Tiket_Bioskop.BioskopDataSet.BarisDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Aplikasi_Tiket_Bioskop.BioskopDataSet.FilmDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Aplikasi_Tiket_Bioskop.BioskopDataSet.HargaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Aplikasi_Tiket_Bioskop.BioskopDataSet.KolomDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Aplikasi_Tiket_Bioskop.BioskopDataSet.PemesananDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Aplikasi_Tiket_Bioskop.BioskopDataSet.PenayanganDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Aplikasi_Tiket_Bioskop.BioskopDataSet.PenggunaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Aplikasi_Tiket_Bioskop.BioskopDataSet.StudioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Aplikasi_Tiket_Bioskop.BioskopDataSet.Waktu_PenayanganDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Aplikasi_Tiket_Bioskop.BioskopDataSet.BarisRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Aplikasi_Tiket_Bioskop.BioskopDataSet.FilmRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Aplikasi_Tiket_Bioskop.BioskopDataSet.HargaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Aplikasi_Tiket_Bioskop.BioskopDataSet.KolomRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Aplikasi_Tiket_Bioskop.BioskopDataSet.PemesananRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Aplikasi_Tiket_Bioskop.BioskopDataSet.PenayanganRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Aplikasi_Tiket_Bioskop.BioskopDataSet.PenggunaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Aplikasi_Tiket_Bioskop.BioskopDataSet.StudioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Aplikasi_Tiket_Bioskop.BioskopDataSet.Waktu_PenayanganRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Aplikasi_Tiket_Bioskop.BioskopDataSet.BarisRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Aplikasi_Tiket_Bioskop.BioskopDataSet.FilmRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Aplikasi_Tiket_Bioskop.BioskopDataSet.HargaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Aplikasi_Tiket_Bioskop.BioskopDataSet.KolomRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Aplikasi_Tiket_Bioskop.BioskopDataSet.PemesananRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Aplikasi_Tiket_Bioskop.BioskopDataSet.PenayanganRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Aplikasi_Tiket_Bioskop.BioskopDataSet.PenggunaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Aplikasi_Tiket_Bioskop.BioskopDataSet.StudioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Aplikasi_Tiket_Bioskop.BioskopDataSet.Waktu_PenayanganRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Aplikasi_Tiket_Bioskop.BioskopDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Aplikasi_Tiket_Bioskop.BioskopDataSetTableAdapters.BarisTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Aplikasi_Tiket_Bioskop.BioskopDataSetTableAdapters.FilmTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Aplikasi_Tiket_Bioskop.BioskopDataSetTableAdapters.HargaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Aplikasi_Tiket_Bioskop.BioskopDataSetTableAdapters.KolomTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Aplikasi_Tiket_Bioskop.BioskopDataSetTableAdapters.PemesananTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Aplikasi_Tiket_Bioskop.BioskopDataSetTableAdapters.PenayanganTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Aplikasi_Tiket_Bioskop.BioskopDataSetTableAdapters.PenggunaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Aplikasi_Tiket_Bioskop.BioskopDataSetTableAdapters.StudioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Aplikasi_Tiket_Bioskop.BioskopDataSetTableAdapters.Waktu_PenayanganTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Aplikasi_Tiket_Bioskop.BioskopDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Aplikasi_Tiket_Bioskop.BioskopDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Aplikasi_Tiket_Bioskop.BioskopDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Aplikasi_Tiket_Bioskop.BioskopDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Aplikasi_Tiket_Bioskop.BioskopDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Aplikasi_Tiket_Bioskop.BioskopDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Aplikasi_Tiket_Bioskop.BioskopDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Aplikasi_Tiket_Bioskop.BioskopDataSetTableAdapters.TableAdapterManager.UpdateAll(Aplikasi_Tiket_Bioskop.BioskopDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Aplikasi_Tiket_Bioskop.BioskopDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Aplikasi_Tiket_Bioskop.BioskopDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Aplikasi_Tiket_Bioskop.BioskopDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

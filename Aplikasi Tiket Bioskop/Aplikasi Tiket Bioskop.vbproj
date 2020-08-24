@@ -1,0 +1,324 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{FF7FA69E-354F-4BB3-BF3F-E685AB0F0720}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Aplikasi_Tiket_Bioskop.My.MyApplication</StartupObject>
+    <RootNamespace>Aplikasi_Tiket_Bioskop</RootNamespace>
+    <AssemblyName>Aplikasi Tiket Bioskop</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Aplikasi Tiket Bioskop.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Aplikasi Tiket Bioskop.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BioskopDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BioskopDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="BioskopDataSet.vb">
+      <DependentUpon>BioskopDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Desain\Admin\Admin.Designer.vb">
+      <DependentUpon>Admin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Desain\Admin\Admin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Desain\Admin\Data Film\Hapus_Film.Designer.vb">
+      <DependentUpon>Hapus_Film.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Desain\Admin\Data Film\Hapus_Film.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Desain\Admin\Data Film\Ubah_Film.Designer.vb">
+      <DependentUpon>Ubah_Film.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Desain\Admin\Data Film\Ubah_Film.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Desain\Admin\Data Film\Tambah_Film.Designer.vb">
+      <DependentUpon>Tambah_Film.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Desain\Admin\Data Film\Tambah_Film.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Desain\Admin\Data Harga\Ubah_Harga.Designer.vb">
+      <DependentUpon>Ubah_Harga.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Desain\Admin\Data Harga\Ubah_Harga.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Desain\Admin\Data Pengguna\Tambah_Pengguna.Designer.vb">
+      <DependentUpon>Tambah_Pengguna.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Desain\Admin\Data Pengguna\Tambah_Pengguna.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Desain\Admin\Data Pengguna\Hapus_Pengguna.Designer.vb">
+      <DependentUpon>Hapus_Pengguna.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Desain\Admin\Data Pengguna\Hapus_Pengguna.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Desain\Admin\Data Pengguna\Ubah_Pengguna.Designer.vb">
+      <DependentUpon>Ubah_Pengguna.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Desain\Admin\Data Pengguna\Ubah_Pengguna.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Desain\Admin\Data Waktu\Hapus_Waktu.Designer.vb">
+      <DependentUpon>Hapus_Waktu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Desain\Admin\Data Waktu\Hapus_Waktu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Desain\Admin\Data Waktu\Tambah_Waktu.Designer.vb">
+      <DependentUpon>Tambah_Waktu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Desain\Admin\Data Waktu\Tambah_Waktu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Desain\Admin\Data Waktu\Ubah_Waktu.Designer.vb">
+      <DependentUpon>Ubah_Waktu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Desain\Admin\Data Waktu\Ubah_Waktu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kode\Database.vb" />
+    <Compile Include="Desain\Tiket.Designer.vb">
+      <DependentUpon>Tiket.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Desain\Tiket.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Desain\Kasir\Pemesanan.Designer.vb">
+      <DependentUpon>Pemesanan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Desain\Kasir\Pemesanan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Desain\Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Desain\Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Desain\Pembukaan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Desain\Pembukaan.Designer.vb">
+      <DependentUpon>Pembukaan.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Desain\Admin\Admin.resx">
+      <DependentUpon>Admin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Desain\Admin\Data Film\Hapus_Film.resx">
+      <DependentUpon>Hapus_Film.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Desain\Admin\Data Film\Ubah_Film.resx">
+      <DependentUpon>Ubah_Film.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Desain\Admin\Data Film\Tambah_Film.resx">
+      <DependentUpon>Tambah_Film.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Desain\Admin\Data Harga\Ubah_Harga.resx">
+      <DependentUpon>Ubah_Harga.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Desain\Admin\Data Pengguna\Tambah_Pengguna.resx">
+      <DependentUpon>Tambah_Pengguna.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Desain\Admin\Data Pengguna\Hapus_Pengguna.resx">
+      <DependentUpon>Hapus_Pengguna.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Desain\Admin\Data Pengguna\Ubah_Pengguna.resx">
+      <DependentUpon>Ubah_Pengguna.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Desain\Admin\Data Waktu\Hapus_Waktu.resx">
+      <DependentUpon>Hapus_Waktu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Desain\Admin\Data Waktu\Tambah_Waktu.resx">
+      <DependentUpon>Tambah_Waktu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Desain\Admin\Data Waktu\Ubah_Waktu.resx">
+      <DependentUpon>Ubah_Waktu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Desain\Tiket.resx">
+      <DependentUpon>Tiket.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Desain\Kasir\Pemesanan.resx">
+      <DependentUpon>Pemesanan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Desain\Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Desain\Pembukaan.resx">
+      <DependentUpon>Pembukaan.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="BioskopDataSet.xsc">
+      <DependentUpon>BioskopDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="BioskopDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BioskopDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BioskopDataSet.xss">
+      <DependentUpon>BioskopDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Bioskop.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Desain\Admin\Data Pemesanan\" />
+    <Folder Include="Laporan\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

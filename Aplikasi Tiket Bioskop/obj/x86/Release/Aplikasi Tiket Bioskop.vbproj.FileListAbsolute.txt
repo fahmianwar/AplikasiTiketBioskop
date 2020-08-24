@@ -1,0 +1,28 @@
+D:\Aplikasi 95\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\bin\Release\Bioskop.accdb
+D:\Aplikasi 95\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\bin\Release\Aplikasi Tiket Bioskop.exe.config
+D:\Aplikasi 95\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\bin\Release\Aplikasi Tiket Bioskop.exe
+D:\Aplikasi 95\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\bin\Release\Aplikasi Tiket Bioskop.pdb
+D:\Aplikasi 95\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\bin\Release\Aplikasi Tiket Bioskop.xml
+D:\Aplikasi 95\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\Aplikasi 95\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\Aplikasi 95\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Release\Aplikasi_Tiket_Bioskop.Admin.resources
+D:\Aplikasi 95\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Release\Aplikasi_Tiket_Bioskop.Hapus_Film.resources
+D:\Aplikasi 95\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Release\Aplikasi_Tiket_Bioskop.Ubah_Film.resources
+D:\Aplikasi 95\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Release\Aplikasi_Tiket_Bioskop.Tambah_Film.resources
+D:\Aplikasi 95\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Release\Aplikasi_Tiket_Bioskop.Ubah_Harga.resources
+D:\Aplikasi 95\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Release\Aplikasi_Tiket_Bioskop.Tambah_Pengguna.resources
+D:\Aplikasi 95\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Release\Aplikasi_Tiket_Bioskop.Hapus_Pengguna.resources
+D:\Aplikasi 95\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Release\Aplikasi_Tiket_Bioskop.Ubah_Pengguna.resources
+D:\Aplikasi 95\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Release\Aplikasi_Tiket_Bioskop.Hapus_Waktu.resources
+D:\Aplikasi 95\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Release\Aplikasi_Tiket_Bioskop.Tambah_Waktu.resources
+D:\Aplikasi 95\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Release\Aplikasi_Tiket_Bioskop.Ubah_Waktu.resources
+D:\Aplikasi 95\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Release\Aplikasi_Tiket_Bioskop.Posisi_Duduk.resources
+D:\Aplikasi 95\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Release\Aplikasi_Tiket_Bioskop.Tiket.resources
+D:\Aplikasi 95\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Release\Aplikasi_Tiket_Bioskop.Pemesanan.resources
+D:\Aplikasi 95\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Release\Aplikasi_Tiket_Bioskop.Login.resources
+D:\Aplikasi 95\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Release\Aplikasi_Tiket_Bioskop.Resources.resources
+D:\Aplikasi 95\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Release\Aplikasi_Tiket_Bioskop.Pembukaan.resources
+D:\Aplikasi 95\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Release\Aplikasi Tiket Bioskop.vbproj.GenerateResource.Cache
+D:\Aplikasi 95\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Release\Aplikasi Tiket Bioskop.exe
+D:\Aplikasi 95\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Release\Aplikasi Tiket Bioskop.xml
+D:\Aplikasi 95\Aplikasi Tiket Bioskop\Aplikasi Tiket Bioskop\obj\x86\Release\Aplikasi Tiket Bioskop.pdb
